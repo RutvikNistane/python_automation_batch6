@@ -1,4 +1,4 @@
-#yPDF2 is a free and open-source pure-python 
+#PyPDF2 is a free and open-source pure-python 
 # pip install PyPDF2
 # PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 
